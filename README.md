@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Yinsongxu's GitHub stats](https://github-stats-extended.vercel.app/api?username=Yinsongxu)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **Yinsongxu/Yinsongxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
